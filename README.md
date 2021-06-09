@@ -107,7 +107,7 @@ login - (when password is given) to login to bot
 
 Deploy on Heroku
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/JNSBOT/JNS-RENAMER-BOT-with-pswd-fsub-grp">
+  <a href="https://heroku.com/deploy?template=https://github.com/JNSBOT/JNS-RENAMER-BOT-with-pswd-fsub-grp/tree/For-Group">
      <img height="70px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
