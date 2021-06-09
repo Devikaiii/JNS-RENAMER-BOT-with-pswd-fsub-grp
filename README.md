@@ -101,3 +101,13 @@ login - (when password is given) to login to bot
 [Dan](https://telegram.dog/haskell) for his [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 [MaheshMalekar ❤](https://telegram.dog/MaheshMalekar) for teaching me python
+
+
+### Deploy 
+
+Deploy on Heroku
+<p align="left">
+  <a href="https://heroku.com/deploy?template=https://github.com/JNSBOT/JNS-RENAMER-BOT-with-pswd-fsub-grp">
+     <img height="70px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
+</p>
