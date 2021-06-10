@@ -31,7 +31,7 @@ def main():
 
     Renamer.add_handler(MessageHandler(
         media,
-        filters=filters.command(['rename', f'rename@{me.username}'])
+        filters=filters.command(['renametg', f'rename@{me.username}'])
         & filters.chat(chats=Config.AUTH_GROUP),
     ))
 
